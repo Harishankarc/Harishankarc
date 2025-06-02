@@ -1,5 +1,5 @@
 # 💫 About Me:
-As a front-end web and app developer, I specialize in creating intuitive and dynamic user experiences across a variety of platforms. My expertise is in using modern frameworks and technologies like React js, Express.js for web programming and Flutter for mobile app development. I am enthusiastic in transforming creative concepts into usable, user-centric digital solutions that deliver great performance and responsiveness. With a keen eye for design and a commitment to remaining current with industry trends, I am constantly striving to improve my abilities and provide high-quality solutions that suit user needs and corporate objectives.
+As a full stack developer, I specialize in creating intuitive and dynamic user experiences across a variety of platforms. My expertise is in using modern frameworks and technologies like React js, Express.js for web programming and Flutter for mobile app development. I am enthusiastic in transforming creative concepts into usable, user-centric digital solutions that deliver great performance and responsiveness. With a keen eye for design and a commitment to remaining current with industry trends, I am constantly striving to improve my abilities and provide high-quality solutions that suit user needs and corporate objectives.
 
 
 ## 🌐 Socials:
