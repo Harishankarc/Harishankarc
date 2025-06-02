@@ -1,6 +1,6 @@
-# 💫 About Me:
-As a full stack developer, I specialize in creating intuitive and dynamic user experiences across a variety of platforms. My expertise is in using modern frameworks and technologies like React js, Express.js for web programming and Flutter for mobile app development. I am enthusiastic in transforming creative concepts into usable, user-centric digital solutions that deliver great performance and responsiveness. With a keen eye for design and a commitment to remaining current with industry trends, I am constantly striving to improve my abilities and provide high-quality solutions that suit user needs and corporate objectives.
-
+## Harishankar C - Full Stack Developer:
+### Hey Folks 👋:
+I am a Full Stack Developer. My expertise is in using modern frameworks and technologies to deliver creative and user-centric product solutions. I am constantly striving to improve my abilities and provide high-quality solutions that suit user needs and corporate objectives.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/haaaaariiiiiiii) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harishankar-c-148453285) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:charishankar30@gmail.com) 
