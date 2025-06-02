@@ -1,7 +1,12 @@
 # HARISHANKAR C - Full Stack Developer:
 ## Hey Folks 👋:
 I am a Full Stack Developer. My expertise is in using modern frameworks and technologies to deliver creative and user-centric product solutions. I am constantly striving to improve my abilities and provide high-quality solutions that suit user needs and corporate objectives.
-
+##🚀 Technologies & Tools
+- Programming Languages: JavaScript, C++, C, Dart, Python, Java
+- Frontend: ReactJs, NextJs, HTML, CSS, TailwindCSS, Flutter
+- Backend: NodeJs, ExpressJs, NestJs, SpringBoot
+- Database: MySQL, PostgresSQL, Supabase, SQLite
+  
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/haaaaariiiiiiii) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harishankar-c-148453285) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:charishankar30@gmail.com) 
 
