@@ -1,5 +1,5 @@
-## Harishankar C - Full Stack Developer:
-### Hey Folks 👋:
+# HARISHANKAR C - Full Stack Developer:
+## Hey Folks 👋:
 I am a Full Stack Developer. My expertise is in using modern frameworks and technologies to deliver creative and user-centric product solutions. I am constantly striving to improve my abilities and provide high-quality solutions that suit user needs and corporate objectives.
 
 ## 🌐 Socials:
