@@ -4,7 +4,7 @@ I am a Full Stack Developer. My expertise is in using modern frameworks and tech
 <h2 align="center">🚀 Technologies & Tools</h2>
 
 - Programming Languages: JavaScript, C++, C, Dart, Python, Java
-- Frontend: ReactJs, NextJs, HTML, CSS, TailwindCSS, Flutter
+- Frontend: ReactJs, NextJs, Flutter
 - Backend: NodeJs, ExpressJs, NestJs, SpringBoot
 - Database: MySQL, PostgresSQL, Supabase, SQLite
 
