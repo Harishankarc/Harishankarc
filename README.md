@@ -7,8 +7,13 @@ I am a Full Stack Developer. My expertise is in using modern frameworks and tech
 - Frontend: ReactJs, NextJs, Flutter
 - Backend: NodeJs, ExpressJs, NestJs, SpringBoot
 - Database: MySQL, PostgresSQL, Supabase, SQLite
+- DevOps & Cloud: AWS, Linux, cPanel
 
-[![My Skills](https://skillicons.dev/icons?i=js,cpp,c,dart,py,java,react,nextjs,html,css,tailwind,flutter,nodejs,express,nestjs,spring,mysql,postgres,supabase,sqlite&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,cpp,c,dart,py,java,react,nextjs,html,css,tailwind,flutter,nodejs,express,nestjs,spring,mysql,postgres,supabase,sqlite,aws,linux&perline=10)](https://skillicons.dev)
+
+<p align="center">
+  <img src="https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white" />
+</p>
 
 <h2 align="center">🌐 Socials</h2>
 
